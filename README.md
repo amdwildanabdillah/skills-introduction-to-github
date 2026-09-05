@@ -1,46 +1,37 @@
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+Get started using GitHub in less than an hour.
 
 ## Welcome
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+- **What you'll build**: We'll make a short Markdown file you can use as your profile README.
+- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
+- **How long**: This course takes less than one hour to complete.
 
-In this exercise, you will:
+In this course, you will:
 
 1. Create a branch
 2. Commit a file
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
+### How to start this course
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Scroll to the top of the page and click the down arrow next to the Fork button. Then click **Create a new fork** to fork this repository.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+[Start course](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Course:+Introduction+to+GitHub&visibility=public)
 
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
+In the new tab, most of the prompts will automatically fill in for you.
 
 - For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+- We recommend creating a public repository, as private repositories will use Actions minutes.
+- Scroll down and click the **Create repository** button at the bottom of the form.
+- After your new repository is created, wait about 20 seconds, then refresh the page.
+- Follow the step-by-step instructions in the new repository's README.
 
 ---
 
